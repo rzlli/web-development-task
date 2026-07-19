@@ -6,8 +6,8 @@
    - Created f.php containing HTML, CSS, and JavaScript.
    - Created m.php and toggle.php using PHP for server-side processing.
 
-2. Create a one-line form:
-   - Designed a single-line HTML form in f.php that includes inputs for Name, Age, and a Submit button.
+2. Create a one line form:
+   - Designed a single line HTML form in f.php that includes inputs for Name, Age, and a Submit button.
 
 3. Store submitted data into a MySQL database table:
    - The form sends data to m.php via POST method, which connects to the MySQL database and inserts the records into the user table.
