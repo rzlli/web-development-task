@@ -1,6 +1,6 @@
 # Web Development Task
 
-## Task Instructions & Implementation:
+## Task Instructions and Implementation:
 
 1. Design a webpage using necessary web languages:
    - Created f.php containing HTML, CSS, and JavaScript.
